@@ -1,0 +1,7 @@
+Store the data from https://simplemaps.com/data/in-cities in a db
+download the current project
+open the project with Visual Studio 2022
+Build the solution and run it
+You will be prompted to enter the city name in the console window
+Provide the city name and hit enter
+You should be able to see the result in the console window.
